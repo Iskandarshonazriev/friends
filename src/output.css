@@ -590,6 +590,10 @@ video {
   margin-top: 100px;
 }
 
+.mt-\[200px\] {
+  margin-top: 200px;
+}
+
 .flex {
   display: flex;
 }
@@ -750,6 +754,10 @@ video {
 
 .text-\[18px\] {
   font-size: 18px;
+}
+
+.text-\[48px\] {
+  font-size: 48px;
 }
 
 .text-\[\] {
